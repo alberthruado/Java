@@ -1,5 +1,5 @@
 /*
- * Polymorphism is creating multiple class that extended to the base 
+ * Polymorphism is creating multiple class extended to the base 
  * class example code below the base class is Human object
  * Polymorphism came in because you can call all created class in the
  * base object using their object method
